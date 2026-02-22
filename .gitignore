@@ -1,20 +1,24 @@
-# runtime / secrets (do NOT sync)
+# secrets / node state (do NOT sync)
+openclaw.json
+openclaw.json.*
+*.bak
 keystore/
 logs/
 cache/
 tmp/
 sessions/
-*.lock
-*.log
-
-# optional: keep node-specific config out of git
-openclaw.json
-openclaw.json.bak
-
-# sensitive / node-specific (do NOT sync)
 credentials/
 identity/
 devices/
-devices/**
 .openclaw/
 update-check.json
+
+# local data/history
+memory/*.sqlite
+cron/runs/
+
+# do not sync provider keys/models file
+agents/main/agent/models.json
+
+# workspace (submodule / local)
+workspace/
