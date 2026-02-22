@@ -1,0 +1,16 @@
+# runtime / secrets (do NOT sync)
+keystore/
+logs/
+cache/
+tmp/
+sessions/
+*.lock
+*.log
+
+# node/service local state
+LaunchAgents/
+systemd/
+
+# optional: keep node-specific config out of git
+openclaw.json
+openclaw.json.bak
