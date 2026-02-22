@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "profiles": {
+    "moonshot:default": {
+      "type": "api_key",
+      "provider": "moonshot",
+      "key": "sk-Ejg07Yi2ZLBWL5txDn1jZFbzGU92TEAu4Pi39phnHC7QOmoB"
+    },
+    "openrouter:default": {
+      "type": "api_key",
+      "provider": "openrouter",
+      "key": "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"
+    }
+  },
+  "lastGood": {
+    "moonshot": "moonshot:default",
+    "openrouter": "openrouter:default"
+  },
+  "usageStats": {
+    "moonshot:default": {
+      "lastUsed": 1771724111366,
+      "errorCount": 0
+    },
+    "openrouter:default": {
+      "lastUsed": 1771044836381,
+      "errorCount": 0
+    }
+  }
+}
