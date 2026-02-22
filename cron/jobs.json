@@ -1,0 +1,126 @@
+{
+  "version": 1,
+  "jobs": [
+    {
+      "id": "e7d2608e-b320-4217-99b0-14ce1872c97a",
+      "agentId": "main",
+      "name": "flight-price-yvr-china",
+      "enabled": false,
+      "createdAtMs": 1771184386859,
+      "updatedAtMs": 1771466642406,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 */6 * * *",
+        "tz": "America/Vancouver",
+        "staggerMs": 300000
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "检查温哥华到中国往返机票价格，使用 /root/.openclaw/workspace/flight_monitor/flight_monitor.py 脚本。如果配置了 Amadeus API，运行单次检查并汇总结果。如果有降价或异常价格，发送通知。如果没有配置API，提醒用户需要先设置。",
+        "thinking": "minimal",
+        "timeoutSeconds": 120
+      },
+      "delivery": {
+        "mode": "announce",
+        "bestEffort": true
+      },
+      "state": {
+        "lastRunAtMs": 1771466622131,
+        "lastStatus": "ok",
+        "lastDurationMs": 20275,
+        "consecutiveErrors": 0
+      }
+    },
+    {
+      "id": "95dda28d-b228-4e99-865d-53d6ca5029d5",
+      "agentId": "main",
+      "name": "install-claw-shell",
+      "enabled": false,
+      "deleteAfterRun": true,
+      "createdAtMs": 1771303490022,
+      "updatedAtMs": 1771304340018,
+      "schedule": {
+        "kind": "at",
+        "at": "2026-02-17T04:49:00.000Z"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Run: clawhub install claw-shell --force --no-input. If it succeeds, tell king it's done. If still rate limited, retry in 5 min by creating another cron job."
+      },
+      "delivery": {
+        "mode": "announce"
+      },
+      "state": {
+        "lastRunAtMs": 1771303740003,
+        "lastStatus": "error",
+        "lastDurationMs": 600015,
+        "lastError": "Error: cron: job execution timed out",
+        "consecutiveErrors": 1
+      }
+    },
+    {
+      "id": "70315d03-6a74-45a5-8c97-9631795ad07b",
+      "agentId": "main",
+      "name": "install-claw-shell-retry",
+      "enabled": false,
+      "deleteAfterRun": true,
+      "createdAtMs": 1771304353817,
+      "updatedAtMs": 1771304722462,
+      "schedule": {
+        "kind": "at",
+        "at": "2026-02-17T05:04:00.000Z"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Run: clawhub install claw-shell --force --no-input. If it succeeds, tell king it's done. If still rate limited, retry in 5 min by creating another cron job.",
+        "model": "moonshot/kimi-k2.5"
+      },
+      "delivery": {
+        "mode": "announce"
+      },
+      "state": {
+        "lastRunAtMs": 1771304640004,
+        "lastStatus": "error",
+        "lastDurationMs": 82458,
+        "lastError": "cron announce delivery failed",
+        "consecutiveErrors": 1
+      }
+    },
+    {
+      "id": "49d35d38-df82-4bf1-9ace-df4d47fd2b14",
+      "agentId": "main",
+      "name": "anyrouter-checkin",
+      "enabled": true,
+      "createdAtMs": 1771386390899,
+      "updatedAtMs": 1771693321531,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 9 * * *",
+        "tz": "America/Vancouver"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "运行 anyrouter 签到脚本: cd /root/.openclaw/workspace/scripts && python3 anyrouter-checkin.py，报告结果。"
+      },
+      "delivery": {
+        "mode": "announce"
+      },
+      "state": {
+        "nextRunAtMs": 1771779600000,
+        "lastRunAtMs": 1771693305511,
+        "lastStatus": "error",
+        "lastDurationMs": 16020,
+        "consecutiveErrors": 2,
+        "lastError": "Unsupported channel: whatsapp"
+      }
+    }
+  ]
+}
