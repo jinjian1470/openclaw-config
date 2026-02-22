@@ -10,3 +10,11 @@ sessions/
 # optional: keep node-specific config out of git
 openclaw.json
 openclaw.json.bak
+
+# sensitive / node-specific (do NOT sync)
+credentials/
+identity/
+devices/
+devices/**
+.openclaw/
+update-check.json
