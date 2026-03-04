@@ -1,0 +1,243 @@
+Question 1: Missing Part (Inventory Fraud)
+
+Question: You are doing an inventory check and find a part missing. A senior co-worker tells you to "just sign it" to save time. What do you do?
+译文：你在做库存检查时发现少了一个零件。一位资深同事让你"直接签字"省时间。你怎么做？
+
+* S (Situation): "I am doing a routine inventory check and I find a part is missing. A senior colleague tells me to just sign the log to save time."
+译文：我在做例行库存检查，发现少了一个零件。一位资深同事让我直接在记录上签字省时间。
+
+* T (Task): "I know I cannot do that. A missing part in a prison is a potential weapon. If I sign, I am lying."
+译文：我知道我不能那样做。监狱里丢失的零件就是潜在的武器。如果我签字，那就是撒谎。
+
+* A (Action): "First, I respectfully but firmly refuse to sign. Then, I recount everything and search the area immediately to verify the count. If the item is still missing, I report it to the Manager right away according to policy."
+译文：首先，我礼貌但坚定地拒绝签字。然后，我重新清点并立即搜索该区域核实数量。如果物品仍然缺失，我立刻按规定上报经理。
+
+* R (Result): "By doing this, I ensure the records are honest and I help prevent a security breach."
+译文：这样做，我确保了记录的真实性，并帮助防止了安全漏洞。
+
+📖 生词本：
+- inventory /ˈɪnvəntɔːri/ (因-文-托-瑞) n. 库存；清单
+- routine /ruːˈtiːn/ (入-提恩) adj. 例行的，常规的
+- colleague /ˈkɒliːɡ/ (科-利格) n. 同事
+- potential /pəˈtenʃəl/ (珀-ten-шёл) adj. 潜在的
+- respectfully /rɪˈspektfəli/ (瑞-斯佩克特-弗利) adv. 恭敬地
+- firmly /ˈfɜːmli/ (佛姆利) adv. 坚定地
+- recount /riːˈkaʊnt/ (瑞-考恩特) v. 重新清点
+- verify /ˈverɪfaɪ/ (ve-瑞-fai) v. 核实
+- security breach /sɪˈkjʊərɪti briːtʃ/ (斯-丘-瑞-提 布瑞奇) n. 安全漏洞
+
+---
+
+Question 2: Co-worker Alcohol
+
+Question: You smell alcohol on a co-worker during a shift change. What do you do?
+译文：交接班时你闻到同事身上有酒味。你怎么做？
+
+* S (Situation): "During shift change, I greet a co-worker and I clearly smell alcohol on his breath."
+译文：交接班时，我跟同事打招呼，明显闻到他嘴里有酒味。
+
+* T (Task): "Safety is my number one priority. An impaired officer puts the whole team and inmates in danger."
+译文：安全是我的第一要务。一个状态不佳的警官会让整个团队和犯人都处于危险中。
+
+* A (Action): "I immediately pull him aside to a private area. I will not let him start his shift. I ask him directly: 'Have you been drinking?' Regardless of his answer, I have a duty to report this to the Supervisor immediately."
+译文：我立刻把他拉到私密区域。我不让他上岗。直接问他："你喝酒了吗？"不管他怎么回答，我有责任立刻上报主管。
+
+* R (Result): "This prevents a potential disaster before the shift even starts."
+译文：这在值班开始前就阻止了潜在的灾难。
+
+📖 生词本：
+- shift change /ʃɪft tʃeɪndʒ/ (希夫特 切恩吉) n. 交接班
+- impaired /ɪmˈpeəd/ (英-佩尔德) adj. 受损的；状态不佳的
+- inmates /ˈɪnmeɪts/ (因-梅茨) n. 囚犯；在押人员
+- pull aside /pʊl əˈsaɪd/ (普尔 额-赛德) v. 拉到一边
+- regardless /rɪˈɡɑːdləs/ (瑞-嘎德-勒斯) adv. 不管怎样
+- supervisor /ˈsuːpəvaɪzə/ (苏-珀-vai-泽) n. 主管
+
+---
+
+Question 3: Inmate Fight / Bruises
+
+Question: Night shift check, two inmates found with bruises (signs of fighting). What do you do?
+译文：夜班巡查，发现两个犯人有淤伤（打架迹象）。你怎么做？
+
+* S (Situation): "On a night shift check, I see two inmates with fresh bruises on their faces."
+译文：夜班巡查时，我看到两个犯人脸上有新的淤伤。
+
+* T (Task): "I realize violence has occurred. I need to stop it and ensure medical safety."
+译文：我意识到发生了暴力事件。我需要制止并确保医疗安全。
+
+* A (Action): "I immediately call for backup and separate the two inmates into different cells. Then, I call the Nurse to assess their injuries. I also search their cells for any weapons and talk to them separately to get the facts."
+译文：我立刻叫增援，把两人分开关到不同牢房。然后叫护士评估伤情。同时搜查牢房找武器，分别谈话了解事实。
+
+* R (Result): "The violence is contained, and I write a detailed Incident Report for the record."
+译文：暴力事件被控制住了，我写了详细的事故报告存档。
+
+📖 生词本：
+- bruises /ˈbruːzɪz/ (布鲁-泽斯) n. 淤伤，瘀青
+- backup /ˈbækʌp/ (拜克-啊普) n. 增援；后援
+- separate /ˈsepəreɪt/ (赛-珀-瑞特) v. 分开
+- cells /selz/ (赛尔斯) n. 牢房；单间
+- assess /əˈses/ (额-赛斯) v. 评估
+- injuries /ˈɪndʒəriz/ (因-哲-瑞斯) n. 伤害；受伤
+- incident report /ˈɪnsɪdənt rɪˈpɔːt/ (因-斯-灯特 瑞-泡特) n. 事故报告
+
+---
+
+Question 4: Co-worker Always Late
+
+Question: A co-worker is consistently late. What do you do?
+译文：一个同事总是迟到。你怎么做？
+
+* S (Situation): "A team member is consistently late for shift handovers, which delays everyone."
+译文：一个队员交接班总是迟到，耽误了所有人。
+
+* T (Task): "I want to resolve this at the lowest level first, but I need to stop the negative impact."
+译文：我想先在最低层级解决这个问题，但我需要停止这种负面影响。
+
+* A (Action): "I speak to him privately, not in front of others. I ask if he has personal issues, showing empathy. But I also explain that his lateness compromises team safety. If he continues to be late, I inform the Supervisor."
+译文：我私下跟他谈，不在别人面前。我问他是否有个人困难，表示同情。但我也解释迟到会危害团队安全。如果继续迟到，我报告主管。
+
+* R (Result): "I gave him a chance to fix it, but I ensured the operation is not affected."
+译文：我给了他改正的机会，但也确保了工作不受影响。
+
+📖 生词本：
+- consistently /kənˈsɪstəntli/ (肯-斯斯-疼特-利) adv. 一直地；持续地
+- handover /ˈhændəʊvə/ (翰德-欧-弗) n. 交接
+- resolve /rɪˈzɒlv/ (瑞-佐尔夫) v. 解决
+- empathy /ˈempəθi/ (恩-珀-θi) n. 同理心；共情
+- compromises /ˈkɒmprəmaɪzɪz/ (康-普瑞-麦-泽斯) v. 危害；妥协
+
+---
+
+Question 5: Refusal to Escort
+
+Question: Two co-workers refuse to escort an inmate to healthcare. There is no supervisor present. What do you do?
+译文：两个同事拒绝护送犯人去医疗部。现场没有主管。你怎么做？
+
+* S (Situation): "An inmate needs a medical escort. Two staff members refuse to go, and no supervisor is present."
+译文：一个犯人需要医疗护送。两个工作人员拒绝去，主管不在。
+
+* T (Task): "The inmate has a right to medical care. I must take initiative to get the job done."
+译文：犯人有权获得医疗服务。我必须主动把事情搞定。
+
+* A (Action): "First, I ask quickly if there is a safety threat. If they just refuse to work, I find another officer immediately and we perform the escort. After the mission, I document the refusal and report it to the Manager."
+译文：首先，我快速确认是否有安全威胁。如果只是不想干，我立刻找另一个警官，我们自己完成护送。任务结束后，我记录拒绝行为并上报经理。
+
+* R (Result): "The inmate receives care safely, and the issue is handled by management."
+译文：犯人安全就医，不服从的问题由管理层处理。
+
+📖 生词本：
+- escort /ˈeskɔːt/ (爱斯-考特) n./v. 护送
+- initiative /ɪˈnɪʃətɪv/ (伊-你-шё-提夫) n. 主动性
+- document /ˈdɒkjʊment/ (多-丘-门特) v. 记录
+- refusal /rɪˈfjuːzəl/ (瑞-夫尤-泽尔) n. 拒绝
+
+---
+
+Question 6: Diversity / Discrimination
+
+Question: Co-workers tell you they don't like a new staff member because of their gender/culture. What do you do?
+译文：同事告诉你他们不喜欢一个新员工，因为对方的性别/文化。你怎么做？
+
+* S (Situation): "I hear colleagues making negative comments about a new staff member's gender or culture."
+译文：我听到同事对新员工的性别或文化发表负面评论。
+
+* T (Task): "This violates our values of Respect. I have a duty to stop discrimination."
+译文：这违反了尊重的价值观。我有责任制止歧视。
+
+* A (Action): "I speak up immediately. I tell them these comments are inappropriate and hurtful. Then, I go to the new staff member to offer my support and welcome them. If the behavior continues, I report it to management."
+译文：我立刻发声。告诉他们这些话不合适且伤人。然后去新员工那里表示支持和欢迎。如果行为继续，上报管理层。
+
+* R (Result): "I contribute to a healthy and inclusive workplace."
+译文：我贡献了一个健康包容的工作环境。
+
+📖 生词本：
+- discrimination /dɪˌskrɪmɪˈneɪʃən/ (迪斯-克瑞-米-内-шён) n. 歧视
+- violates /ˈvaɪəleɪts/ (vai-额-雷茨) v. 违反
+- inappropriate /ˌɪnəˈprəʊpriət/ (伊-呐-普柔-普瑞-额特) adj. 不恰当的
+- hurtful /ˈhɜːtfəl/ (赫特-佛) adj. 伤人的
+- inclusive /ɪnˈkluːsɪv/ (英-克鲁-斯夫) adj. 包容的
+
+---
+
+Question 7: Handling an Inappropriate Situation
+
+Question: Describe a time you identified inappropriate behavior and how you handled it. What was the outcome?
+译文：描述一次你发现不当行为并处理的经历。结果如何？
+
+* S (Situation): "During a routine check, I witnessed two inmates fighting. One was knocked to the ground and kicked several times."
+译文：例行巡查时，我目睹两个犯人打架。一个被打倒在地，被踹了好几脚。
+
+* T (Task): "I needed to stop the violence immediately and ensure the injured inmate received medical attention."
+译文：我需要立即制止暴力，并确保受伤的犯人得到医疗救治。
+
+* A (Action): "I intervened right away and separated the two inmates. I then assessed the injured inmate and told him he needed to go to the hospital. He refused, saying he was fine. I calmly explained that internal injuries are not always visible and that it was for his own safety. I persuaded him to go."
+译文：我立刻介入，分开了两人。然后评估伤者情况，告诉他需要去医院。他拒绝，说自己没事。我冷静地解释内伤不一定看得见，这是为了他自己的安全。我说服了他去。
+
+* R (Result): "At the hospital, doctors found he had two broken ribs. If I had not insisted, a serious injury would have gone untreated. This reinforced my belief that you must always follow through on medical assessments, even when the person resists."
+译文：在医院，医生发现他断了两根肋骨。如果我没有坚持，一个严重的伤就不会被发现和治疗。这强化了我的信念：必须始终坚持医疗评估，即使对方抗拒。
+
+📖 生词本：
+- witnessed /ˈwɪtnəst/ (维特-呢斯特) v. 目睹
+- intervened /ˌɪntəˈviːnd/ (因-特-维恩德) v. 介入；干预
+- internal injuries /ɪnˈtɜːnəl ˈɪndʒəriz/ (英-特纳尔 因-哲-瑞斯) n. 内伤
+- visible /ˈvɪzəbəl/ (维-泽-波) adj. 可见的
+- persuaded /pəˈsweɪdɪd/ (珀-斯伟-滴德) v. 说服
+- ribs /rɪbz/ (瑞布斯) n. 肋骨
+- reinforced /ˌriːɪnˈfɔːst/ (瑞-英-佛斯特) v. 强化
+- follow through /ˈfɒləʊ θruː/ (佛-楼 θ鲁) v. 坚持到底
+
+---
+
+Question 8: Performance Review
+
+Question: Manager says your cell search time management needs improvement. How do you respond?
+译文：经理说你搜查牢房的时间管理需要改进。你怎么回应？
+
+* S (Situation): "My supervisor tells me that my cell searches are too slow and need improvement."
+译文：主管告诉我搜查牢房太慢，需要改进。
+
+* T (Task): "I need to accept this constructively and learn, rather than making excuses."
+译文：我需要建设性地接受并学习，而不是找借口。
+
+* A (Action): "I thank the manager for the feedback. I ask for advice: 'Can you demonstrate the most efficient technique?' I set a plan to practice my speed over the next month while maintaining safety."
+译文：我感谢经理的反馈。请教："您能演示一下最高效的技巧吗？"我制定计划，下个月练习提速，同时保持安全。
+
+* R (Result): "I turn a weakness into a strength through continuous learning."
+译文：通过持续学习，我把弱点变成了优势。
+
+📖 生词本：
+- cell search /sel sɜːtʃ/ (赛尔 瑟奇) n. 牢房搜查
+- constructively /kənˈstrʌktɪvli/ (肯-斯特拉克-提夫-利) adv. 建设性地
+- demonstrate /ˈdemənstreɪt/ (戴-蒙-斯特瑞特) v. 演示
+- efficient /ɪˈfɪʃənt/ (伊-fi-шёнт) adj. 高效的
+- technique /tekˈniːk/ (泰克-尼克) n. 技巧
+- maintaining /meɪnˈteɪnɪŋ/ (梅恩-忒-宁) v. 保持
+- continuous /kənˈtɪnjuəs/ (肯-提-纽-额斯) adj. 持续的
+
+---
+
+Question 9: Past Teamwork Example
+
+Question: Describe a time you helped your team work better.
+译文：描述一次你帮助团队更好地工作的经历。
+
+* S (Situation): "In my previous job, we had a critical situation where a client (or inmate) had a sudden medical emergency."
+译文：在我上一份工作中，有一个紧急情况——一位客户（或犯人）突发医疗急救。
+
+* T (Task): "The team was busy with first aid. My task was to contact the family, but the phone number was dead."
+译文：团队忙着急救。我的任务是联系家属，但电话号码打不通。
+
+* A (Action): "I took initiative. I went to the local police station (or used an alternative database) to find the current contact info. I successfully located the daughter and informed her professionally."
+译文：我主动出击。跑去当地警察局（或用了备用数据库）查找最新联系方式。成功找到了女儿并专业地通知了她。
+
+* R (Result): "The family arrived in time. My initiative allowed the team to focus entirely on saving the life."
+译文：家属及时赶到。我的主动让团队能全心全意地救人。
+
+📖 生词本：
+- critical /ˈkrɪtɪkəl/ (克瑞-提-扣) adj. 紧急的；关键的
+- medical emergency /ˈmedɪkəl ɪˈmɜːdʒənsi/ (梅-迪-扣 伊-默-金-斯) n. 医疗急救
+- first aid /fɜːst eɪd/ (佛斯特 诶德) n. 急救
+- alternative /ɔːlˈtɜːnətɪv/ (奥-特纳-提夫) adj. 备用的；替代的
+- located /ləʊˈkeɪtɪd/ (楼-凯-提德) v. 找到；定位
+- professionally /prəˈfeʃənəli/ (普瑞-菲-шён-纳利) adv. 专业地

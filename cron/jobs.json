@@ -98,7 +98,7 @@
       "name": "anyrouter-checkin",
       "enabled": true,
       "createdAtMs": 1771386390899,
-      "updatedAtMs": 1771693321531,
+      "updatedAtMs": 1772643630783,
       "schedule": {
         "kind": "cron",
         "expr": "0 9 * * *",
@@ -114,12 +114,45 @@
         "mode": "announce"
       },
       "state": {
-        "nextRunAtMs": 1771779600000,
-        "lastRunAtMs": 1771693305511,
+        "nextRunAtMs": 1772730000000,
+        "lastRunAtMs": 1772643600005,
         "lastStatus": "error",
-        "lastDurationMs": 16020,
-        "consecutiveErrors": 2,
-        "lastError": "Unsupported channel: whatsapp"
+        "lastDurationMs": 30778,
+        "consecutiveErrors": 1,
+        "lastRunStatus": "error",
+        "lastDeliveryStatus": "unknown",
+        "lastError": "Channel is required when multiple channels are configured: telegram, discord Set delivery.channel explicitly or use a main session with a previous channel."
+      }
+    },
+    {
+      "id": "39026a0c-538b-413c-a899-05478c328684",
+      "agentId": "main",
+      "sessionKey": "agent:main:main",
+      "name": "nightly-security-audit",
+      "enabled": true,
+      "createdAtMs": 1772573184751,
+      "updatedAtMs": 1772573184751,
+      "schedule": {
+        "kind": "cron",
+        "tz": "Asia/Shanghai",
+        "expr": "0 3 * * *"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Execute this command and output the result as-is, no extra commentary: bash ~/.openclaw/workspace/scripts/nightly-security-audit.sh",
+        "timeoutSeconds": 300,
+        "thinkingLevel": "off"
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "target": "5309151597"
+      },
+      "state": {
+        "nextRunAtMs": 1772650800000,
+        "runningAtMs": 1772650800002
       }
     }
   ]

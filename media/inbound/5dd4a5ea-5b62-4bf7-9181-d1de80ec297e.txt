@@ -1,0 +1,82 @@
+题目 1：库存造假 (Missing Part)
+核心：绝不妥协，零件=武器。
+
+Question: You are doing an inventory check and find a part missing. A senior co-worker tells you to "just sign it" to save time. What do you do?
+
+* S (Situation): "I am doing a routine inventory check and I find a part is missing. A senior colleague tells me to just sign the log to save time." (我在做例行检查，发现少个零件。老同事让我直接签字省时间。)
+* T (Task): "I know I cannot do that. A missing part in a prison is a potential weapon. If I sign, I am lying." (我知道我不能那样做。监狱里少的零件就是潜在武器。签字就是撒谎。)
+* A (Action): "First, I respectfully but firmly refuse to sign. Then, I recount everything and search the area immediately to verify the count. If the item is still missing, I report it to the Manager right away according to policy." (首先，我礼貌但坚定地拒绝签字。然后，我重数并搜索该区域。如果还没找到，我立刻按规定上报经理。)
+* R (Result): "By doing this, I ensure the records are honest and I help prevent a security breach." (这样做，我保证了记录诚实，并防止了安全漏洞。)
+
+题目 2：同事身上有酒味 (Co-worker Alcohol)
+核心：安全第一，六亲不认。
+Question: You smell alcohol on a co-worker during a shift change. What do you do?
+
+* S (Situation): "During shift change, I greet a co-worker and I clearly smell alcohol on his breath." (交接班时，我跟同事打招呼，明显闻到他嘴里有酒味。)
+* T (Task): "Safety is my number one priority. An impaired officer puts the whole team and inmates in danger." (安全是我的第一要务。不清醒的警官会让团队和犯人都处于危险中。)
+* A (Action): "I immediately pull him aside to a private area. I will not let him start his shift. I ask him directly: 'Have you been drinking?' Regardless of his answer, I have a duty to report this to the Supervisor immediately." (我立刻把他拉到私人区域。我不让他上岗。直接问他：你喝酒了吗？不管他怎么答，我有责任立刻上报主管。)
+* R (Result): "This prevents a potential disaster before the shift even starts." (这在值班开始前就阻止了潜在的灾难。)
+
+题目 3：犯人打架带伤 (Inmate Fight / Bruises)
+核心：控制 -> 医疗 -> 取证。
+Question: Night shift check, two inmates found with bruises (signs of fighting). What do you do?
+
+* S (Situation): "On a night shift check, I see two inmates with fresh bruises on their faces." (夜班巡逻，看到两个犯人脸上有新伤。)
+* T (Task): "I realize violence has occurred. I need to stop it and ensure medical safety." (我意识到发生了暴力。我得制止并确保医疗安全。)
+* A (Action): "I immediately call for backup and separate the two inmates into different cells. Then, I call the Nurse to assess their injuries. I also search their cells for any weapons and talk to them separately to get the facts." (立刻叫增援，把他俩分开关。叫护士验伤。搜牢房找武器，并分开谈话了解事实。)
+* R (Result): "The violence is contained, and I write a detailed Incident Report for the record." (暴力被控制，我写了详细事故报告存档。)
+
+题目 4：同事总是迟到 (Co-worker Always Late)
+核心：先礼后兵。
+Question: A co-worker is consistently late. What do you do?
+
+* S (Situation): "A team member is consistently late for shift handovers, which delays everyone." (有个队员老是交接班迟到，耽误大家。)
+* T (Task): "I want to resolve this at the lowest level first, but I need to stop the negative impact." (我想先在最低层级解决这事，但我得停止这种负面影响。)
+* A (Action): "I speak to him privately, not in front of others. I ask if he has personal issues, showing empathy. But I also explain that his lateness compromises team safety. If he continues to be late, I inform the Supervisor." (私下跟他聊。问他是否有个人困难，表示同情。但也解释迟到会危害团队安全。如果不改，我报告主管。)
+* R (Result): "I gave him a chance to fix it, but I ensured the operation is not affected." (我给了他机会改，但也确保了行动不受影响。)
+
+题目 5：同事拒绝护送/无领导 (Refusal to Escort)
+核心：任务第一，主动补位。
+Question: Two co-workers refuse to escort an inmate to healthcare. There is no supervisor present. What do you do?
+
+* S (Situation): "An inmate needs a medical escort. Two staff members refuse to go, and no supervisor is present." (犯人要看病。俩员工不去，主管不在。)
+* T (Task): "The inmate has a right to medical care. I must take initiative to get the job done." (犯人有权看病。我必须采取主动把活干了。)
+* A (Action): "First, I ask quickly if there is a safety threat. If they just refuse to work, I find another officer immediately and we perform the escort. After the mission, I document the refusal and report it to the Manager." (先问有没有安全威胁。如果只是不想干，我找另一个警官，我们自己送。任务结束后，记录并上报经理。)
+* R (Result): "The inmate receives care safely, and the issue is handled by management." (犯人安全就医，不服从命令的事由管理层处理。)
+
+题目 6：歧视新同事 (Diversity / Discrimination)
+核心：维护价值观，支持受害者。
+Question: Co-workers tell you they don't like a new staff member because of their gender/culture. What do you do?
+
+* S (Situation): "I hear colleagues making negative comments about a new staff member's gender or culture." (听到同事对新员工的性别或文化说闲话。)
+* T (Task): "This violates our values of Respect. I have a duty to stop discrimination." (这违反了尊重的价值观。我有责任制止歧视。)
+* A (Action): "I speak up immediately. I tell them these comments are inappropriate and hurtful. Then, I go to the new staff member to offer my support and welcome them. If the behavior continues, I report it to management." (立刻发声。告诉他们这话不合适且伤人。然后去支持新员工，欢迎他。如果继续，上报管理层。)
+* R (Result): "I contribute to a healthy and inclusive workplace." (我贡献了一个健康包容的工作环境。)
+
+题目 7：犯人想要自杀 (Suicidal Inmate)
+核心：生命 > 时间表。
+Question: An inmate says "all problems will be gone soon" (suicide risk), but your partner urges you to leave so you aren't late. What do you do?
+
+* S (Situation): "An inmate makes a comment about self-harm ('problems will be gone soon'), but my partner urges me to leave to be on time." (犯人暗示自杀，搭档催我走。)
+* T (Task): "Preservation of life is more important than the schedule. I cannot leave." (保命比时刻表重要。我不能走。)
+* A (Action): "I strictly tell my partner: 'We have a medical emergency, we are staying.' I radio for a Nurse or Psychologist immediately. I stay at the door and engage the inmate in conversation until help arrives." (严厉告诉搭档：这是医疗急救，我们留下。立刻呼叫护士或心理医生。守在门口跟犯人说话直到救援来。)
+* R (Result): "Punctuality matters, but saving a life is the ultimate duty." (准时重要，但救命是终极责任。)
+
+题目 8：绩效评估反馈 (Performance Review)
+核心：虚心接受，转化为行动。
+Question: Manager says your cell search time management needs improvement. How do you respond?
+
+* S (Situation): "My supervisor tells me that my cell searches are too slow and need improvement." (主管说我搜牢房太慢，需要改进。)
+* T (Task): "I need to accept this constructively and learn, rather than making excuses." (我得建设性地接受并学习，而不是找借口。)
+* A (Action): "I thank the manager for the feedback. I ask for advice: 'Can you demonstrate the most efficient technique?' I set a plan to practice my speed over the next month while maintaining safety." (感谢反馈。求教：能演示一下最高效的技术吗？制定计划下个月练习速度，同时保持安全。)
+* R (Result): "I turn a weakness into a strength through continuous learning." (通过持续学习，变弱为强。)
+
+题目 9：团队合作经历 (Past Teamwork Example)
+核心：如果你没有工作经验，就用这个通用的“危机补位”故事。
+Question: Describe a time you helped your team work better. 
+
+* S (Situation): "In my previous job, we had a critical situation where a client (or inmate) had a sudden medical emergency." (上一份工作，有个客户/犯人突发医疗急救。)
+* T (Task): "The team was busy with first aid. My task was to contact the family, but the phone number was dead." (团队忙急救。我的任务是联系家属，但电话打不通。)
+* A (Action): "I took initiative. I went to the local police station (or used an alternative database) to find the current contact info. I successfully located the daughter and informed her professionally." (我采取主动。跑去警察局查新联系方式。成功找到女儿并专业通知。)
+* R (Result): "The family arrived in time. My initiative allowed the team to focus entirely on saving the life." (家属及时赶到。我的主动让团队能全心全意救人。)
+

@@ -10,19 +10,41 @@
       "type": "api_key",
       "provider": "openrouter",
       "key": "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"
+    },
+    "deepseek:default": {
+      "type": "api_key",
+      "provider": "deepseek",
+      "key": "sk-8437f59d1a8847029b92b92fc69ba3ce"
+    },
+    "openai-codex:default": {
+      "type": "oauth",
+      "provider": "openai-codex",
+      "access": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjE5MzQ0ZTY1LWJiYzktNDRkMS1hOWQwLWY5NTdiMDc5YmQwZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsiaHR0cHM6Ly9hcGkub3BlbmFpLmNvbS92MSJdLCJjbGllbnRfaWQiOiJhcHBfRU1vYW1FRVo3M2YwQ2tYYVhwN2hyYW5uIiwiZXhwIjoxNzczMTg1MTM3LCJodHRwczovL2FwaS5vcGVuYWkuY29tL2F1dGgiOnsiY2hhdGdwdF9hY2NvdW50X2lkIjoiYjc2MjViNTUtYjEyZi00ZTY5LWI5NjEtODNjNGI1NjdmNzIxIiwiY2hhdGdwdF9hY2NvdW50X3VzZXJfaWQiOiJ1c2VyLVN3ZzNGNzNHT0lQWGZuU0t3WldqN3BRel9fYjc2MjViNTUtYjEyZi00ZTY5LWI5NjEtODNjNGI1NjdmNzIxIiwiY2hhdGdwdF9jb21wdXRlX3Jlc2lkZW5jeSI6Im5vX2NvbnN0cmFpbnQiLCJjaGF0Z3B0X3BsYW5fdHlwZSI6InRlYW0iLCJjaGF0Z3B0X3VzZXJfaWQiOiJ1c2VyLVN3ZzNGNzNHT0lQWGZuU0t3WldqN3BReiIsInVzZXJfaWQiOiJ1c2VyLVN3ZzNGNzNHT0lQWGZuU0t3WldqN3BReiJ9LCJodHRwczovL2FwaS5vcGVuYWkuY29tL3Byb2ZpbGUiOnsiZW1haWwiOiJqaW5qaWFuMTQ3MEBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZX0sImlhdCI6MTc3MjMyMTEzNiwiaXNzIjoiaHR0cHM6Ly9hdXRoLm9wZW5haS5jb20iLCJqdGkiOiIyOTI3ZDMxOC1lN2Q2LTQ5NTktYjMzNy1lMTE0ZTk4NmJmMGMiLCJuYmYiOjE3NzIzMjExMzYsInB3ZF9hdXRoX3RpbWUiOjE3NzIzMjExMDg0MjcsInNjcCI6WyJvcGVuaWQiLCJwcm9maWxlIiwiZW1haWwiLCJvZmZsaW5lX2FjY2VzcyJdLCJzZXNzaW9uX2lkIjoiYXV0aHNlc3NfcGpMTGtoSzNsRDZuWEFUZFhmeFRUQlRXIiwic3ViIjoiZ29vZ2xlLW9hdXRoMnwxMTE3Nzc1NzA1MzQ3OTkyOTA5NzAifQ.rQO-75tUK2Ob1kM534L_fsMIr_7DzoIeMml-3A3oSCZ1s5FsTxfCPCxlT0VQL88olmcbbszNi_VM51sjcTmvqptZgRsAa1jCblW5EZC1KRRdpElfd-bacBV_otN_4zONVeHPsO0B9NTOYukueBH2dpMT0pc9fDYQ2wY75TCpIgktW4RAkqfp2Tny_HAB_5S8OALt_SvUKPpBGmYg6ZoHOCW-n-w4W1YR2qSyo6K-ttcFWYztw-vZu329x8sA_AUGzgkvlcoPc22SbL2eRzD3d9DRiufiW16dfDyecF4nZiyvJvQN1I_JrEzxBvGwUpruHP0rVwKvAgo-SlLbuu7pGpQbabADEe8aNDAUvS-cO25YK11FDBo4AnKyqkJa6bYXRg0BRWne_f0QoDwpDd9AGchrnLvBnZutJwWoXxKD0G6LHkrU3tH5Bg5YPGsGfl5XiXiDpt4_CDTUAD88Ywdgvf7nRj6bq6J2vq_vB-XXdeVt5WDeE8uY_jF9kQI0goeuKIO4DRAC5ZbaEMgCS4GqbrS6hA4OLJ_M1XjJI21PKkHjXsiSsVK1qBXnXou5pnulDsKdR7Znam6P4eMXack9MgG15lI4BtHj1kuM3YtFweFljX__ZO8mdeSCN2ihNny6n3myJiaRGXqrTQ888ugi9FHgxGibQ-3532_RMdu4EBo",
+      "refresh": "rt_GkOSckrbE7dNANm3IkWBOTbxG9dF2s4NAiZOUKgxueQ.eVsTtJCD6r4u6nC99ev2xkkPtCYcydLPIMqzyeRTed4",
+      "expires": 1773185137025,
+      "accountId": "b7625b55-b12f-4e69-b961-83c4b567f721"
     }
   },
   "lastGood": {
     "moonshot": "moonshot:default",
-    "openrouter": "openrouter:default"
+    "openrouter": "openrouter:default",
+    "deepseek": "deepseek:default"
   },
   "usageStats": {
     "moonshot:default": {
-      "lastUsed": 1771724111366,
+      "lastUsed": 1772325960151,
       "errorCount": 0
     },
     "openrouter:default": {
       "lastUsed": 1771044836381,
+      "errorCount": 0
+    },
+    "deepseek:default": {
+      "lastUsed": 1772322477908,
+      "errorCount": 0
+    },
+    "openai-codex:default": {
+      "lastUsed": 1772649195440,
       "errorCount": 0
     }
   }

@@ -1,0 +1,80 @@
+Question 1: Missing Part (Inventory Fraud)
+
+Question: You are doing an inventory check and find a part missing. A senior co-worker tells you to "just sign it" to save time. What do you do?
+
+* S (Situation): "I am doing a routine inventory check and I find a part is missing. A senior colleague tells me to just sign the log to save time."
+* T (Task): "I know I cannot do that. A missing part in a prison is a potential weapon. If I sign, I am lying."
+* A (Action): "First, I respectfully but firmly refuse to sign. Then, I recount everything and search the area immediately to verify the count. If the item is still missing, I report it to the Manager right away according to policy."
+* R (Result): "By doing this, I ensure the records are honest and I help prevent a security breach."
+
+Question 2: Co-worker Alcohol
+
+Question: You smell alcohol on a co-worker during a shift change. What do you do?
+
+* S (Situation): "During shift change, I greet a co-worker and I clearly smell alcohol on his breath."
+* T (Task): "Safety is my number one priority. An impaired officer puts the whole team and inmates in danger."
+* A (Action): "I immediately pull him aside to a private area. I will not let him start his shift. I ask him directly: 'Have you been drinking?' Regardless of his answer, I have a duty to report this to the Supervisor immediately."
+* R (Result): "This prevents a potential disaster before the shift even starts."
+
+Question 3: Inmate Fight / Bruises
+
+Question: Night shift check, two inmates found with bruises (signs of fighting). What do you do?
+
+* S (Situation): "On a night shift check, I see two inmates with fresh bruises on their faces."
+* T (Task): "I realize violence has occurred. I need to stop it and ensure medical safety."
+* A (Action): "I immediately call for backup and separate the two inmates into different cells. Then, I call the Nurse to assess their injuries. I also search their cells for any weapons and talk to them separately to get the facts."
+* R (Result): "The violence is contained, and I write a detailed Incident Report for the record."
+
+Question 4: Co-worker Always Late
+
+Question: A co-worker is consistently late. What do you do?
+
+* S (Situation): "A team member is consistently late for shift handovers, which delays everyone."
+* T (Task): "I want to resolve this at the lowest level first, but I need to stop the negative impact."
+* A (Action): "I speak to him privately, not in front of others. I ask if he has personal issues, showing empathy. But I also explain that his lateness compromises team safety. If he continues to be late, I inform the Supervisor."
+* R (Result): "I gave him a chance to fix it, but I ensured the operation is not affected."
+
+Question 5: Refusal to Escort
+
+Question: Two co-workers refuse to escort an inmate to healthcare. There is no supervisor present. What do you do?
+
+* S (Situation): "An inmate needs a medical escort. Two staff members refuse to go, and no supervisor is present."
+* T (Task): "The inmate has a right to medical care. I must take initiative to get the job done."
+* A (Action): "First, I ask quickly if there is a safety threat. If they just refuse to work, I find another officer immediately and we perform the escort. After the mission, I document the refusal and report it to the Manager."
+* R (Result): "The inmate receives care safely, and the issue is handled by management."
+
+Question 6: Diversity / Discrimination
+
+Question: Co-workers tell you they don't like a new staff member because of their gender/culture. What do you do?
+
+* S (Situation): "I hear colleagues making negative comments about a new staff member's gender or culture."
+* T (Task): "This violates our values of Respect. I have a duty to stop discrimination."
+* A (Action): "I speak up immediately. I tell them these comments are inappropriate and hurtful. Then, I go to the new staff member to offer my support and welcome them. If the behavior continues, I report it to management."
+* R (Result): "I contribute to a healthy and inclusive workplace."
+
+Question 7: Handling an Inappropriate Situation
+
+Question: Describe a time you identified inappropriate behavior and how you handled it. What was the outcome?
+
+* S (Situation): "During a routine check, I witnessed two inmates fighting. One was knocked to the ground and kicked several times."
+* T (Task): "I needed to stop the violence immediately and ensure the injured inmate received medical attention."
+* A (Action): "I intervened right away and separated the two inmates. I then assessed the injured inmate and told him he needed to go to the hospital. He refused, saying he was fine. I calmly explained that internal injuries are not always visible and that it was for his own safety. I persuaded him to go."
+* R (Result): "At the hospital, doctors found he had two broken ribs. If I had not insisted, a serious injury would have gone untreated. This reinforced my belief that you must always follow through on medical assessments, even when the person resists."
+
+Question 8: Performance Review
+
+Question: Manager says your cell search time management needs improvement. How do you respond?
+
+* S (Situation): "My supervisor tells me that my cell searches are too slow and need improvement."
+* T (Task): "I need to accept this constructively and learn, rather than making excuses."
+* A (Action): "I thank the manager for the feedback. I ask for advice: 'Can you demonstrate the most efficient technique?' I set a plan to practice my speed over the next month while maintaining safety."
+* R (Result): "I turn a weakness into a strength through continuous learning."
+
+Question 9: Past Teamwork Example
+
+Question: Describe a time you helped your team work better.
+
+* S (Situation): "In my previous job, we had a critical situation where a client (or inmate) had a sudden medical emergency."
+* T (Task): "The team was busy with first aid. My task was to contact the family, but the phone number was dead."
+* A (Action): "I took initiative. I went to the local police station (or used an alternative database) to find the current contact info. I successfully located the daughter and informed her professionally."
+* R (Result): "The family arrived in time. My initiative allowed the team to focus entirely on saving the life."
