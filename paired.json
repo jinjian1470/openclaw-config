@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "gateways": {
+    "local": {
+      "url": "ws://127.0.0.1:18789",
+      "token": "4376af84b3a1ae08ba25dd5d02389834f3cf262d9edd3e2d"
+    }
+  }
+}
