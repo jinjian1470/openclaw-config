@@ -98,7 +98,7 @@
       "name": "anyrouter-checkin",
       "enabled": true,
       "createdAtMs": 1771386390899,
-      "updatedAtMs": 1773504018745,
+      "updatedAtMs": 1773590420467,
       "schedule": {
         "kind": "cron",
         "expr": "0 9 * * *",
@@ -114,11 +114,11 @@
         "mode": "announce"
       },
       "state": {
-        "nextRunAtMs": 1773590400000,
-        "lastRunAtMs": 1773504000006,
+        "nextRunAtMs": 1773676800000,
+        "lastRunAtMs": 1773590400010,
         "lastStatus": "error",
-        "lastDurationMs": 18739,
-        "consecutiveErrors": 11,
+        "lastDurationMs": 20457,
+        "consecutiveErrors": 12,
         "lastRunStatus": "error",
         "lastDeliveryStatus": "unknown",
         "lastError": "Channel is required when multiple channels are configured: telegram, discord Set delivery.channel explicitly or use a main session with a previous channel."
@@ -131,7 +131,7 @@
       "name": "nightly-security-audit",
       "enabled": true,
       "createdAtMs": 1772573184751,
-      "updatedAtMs": 1773428436025,
+      "updatedAtMs": 1773514831393,
       "schedule": {
         "kind": "cron",
         "tz": "Asia/Shanghai",
@@ -151,14 +151,14 @@
         "target": "5309151597"
       },
       "state": {
-        "nextRunAtMs": 1773514800000,
-        "lastRunAtMs": 1773428400007,
+        "nextRunAtMs": 1773601200000,
+        "lastRunAtMs": 1773514800004,
         "lastRunStatus": "error",
         "lastStatus": "error",
-        "lastDurationMs": 36018,
+        "lastDurationMs": 31389,
         "lastDeliveryStatus": "unknown",
-        "consecutiveErrors": 10,
-        "runningAtMs": 1773514800003
+        "consecutiveErrors": 11,
+        "runningAtMs": 1773601200002
       }
     }
   ]
