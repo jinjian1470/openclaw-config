@@ -40,13 +40,13 @@
       "errorCount": 0
     },
     "deepseek:default": {
-      "lastUsed": 1773585846766,
+      "lastUsed": 1773580171981,
       "errorCount": 1,
       "failureCounts": {
         "billing": 1
       },
-      "lastFailureAt": 1773585963773,
-      "disabledUntil": 1773603963773,
+      "lastFailureAt": 1773672452236,
+      "disabledUntil": 1773690452236,
       "disabledReason": "billing"
     },
     "openai-codex:default": {
