@@ -98,7 +98,7 @@
       "name": "anyrouter-checkin",
       "enabled": true,
       "createdAtMs": 1771386390899,
-      "updatedAtMs": 1774368028688,
+      "updatedAtMs": 1774454433010,
       "schedule": {
         "kind": "cron",
         "expr": "0 9 * * *",
@@ -114,11 +114,11 @@
         "mode": "announce"
       },
       "state": {
-        "nextRunAtMs": 1774454400000,
-        "lastRunAtMs": 1774368000007,
+        "nextRunAtMs": 1774540800000,
+        "lastRunAtMs": 1774454400006,
         "lastStatus": "error",
-        "lastDurationMs": 28681,
-        "consecutiveErrors": 21,
+        "lastDurationMs": 33004,
+        "consecutiveErrors": 22,
         "lastRunStatus": "error",
         "lastDeliveryStatus": "unknown",
         "lastError": "Channel is required when multiple channels are configured: telegram, discord, feishu, openclaw-weixin Set delivery.channel explicitly or use a main session with a previous channel."
@@ -131,7 +131,7 @@
       "name": "nightly-security-audit",
       "enabled": true,
       "createdAtMs": 1772573184751,
-      "updatedAtMs": 1774292462790,
+      "updatedAtMs": 1774378835339,
       "schedule": {
         "kind": "cron",
         "tz": "Asia/Shanghai",
@@ -151,14 +151,14 @@
         "target": "5309151597"
       },
       "state": {
-        "nextRunAtMs": 1774378800000,
-        "lastRunAtMs": 1774292400004,
+        "nextRunAtMs": 1774465200000,
+        "lastRunAtMs": 1774378800005,
         "lastRunStatus": "error",
         "lastStatus": "error",
-        "lastDurationMs": 62786,
+        "lastDurationMs": 35334,
         "lastDeliveryStatus": "unknown",
-        "consecutiveErrors": 20,
-        "runningAtMs": 1774378800001
+        "consecutiveErrors": 21,
+        "runningAtMs": 1774465200001
       }
     }
   ]
